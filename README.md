@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 ---
 title: Python中的socket编程
 tags: Python,socket,图像同传
 grammar_cjkRuby: true
 ---
-
+[TOC]
 
 # 简介
 本文介绍Python下的socket包的简单使用。Python下的socket包是一个低级的网络通讯包，包含TCP/IP协议通讯、UDP协议通讯、集群通讯等各种通讯接口。我主要用TCP/IP通讯制作了视频同传的一个小demo。
@@ -349,6 +348,3 @@ if __name__ == '__main__':
 
 
 ```
-=======
-# Network-Video-Transmission
->>>>>>> 3d44457b2983235c50e563efb4a101ec120b4e2c
