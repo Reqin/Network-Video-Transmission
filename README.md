@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Python中的socket编程
 tags: Python,socket,图像同传
@@ -348,3 +349,6 @@ if __name__ == '__main__':
 
 
 ```
+=======
+# Network-Video-Transmission
+>>>>>>> 3d44457b2983235c50e563efb4a101ec120b4e2c
